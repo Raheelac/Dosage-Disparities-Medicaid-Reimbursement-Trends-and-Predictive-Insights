@@ -1,4 +1,4 @@
-# Unequal Doses: Forecasting Medicaid Drug Reimbursements Across the States
+# Dosage Disparities: Medicaid Reimbursement Trends and Predictive Insights
 
 ## 🧾 Project Summary  
 Between 2019 and 2024, Medicaid reimbursement patterns varied widely across U.S. states. Our project explores these disparities by analyzing dosage volumes, prescription trends, and external socioeconomic variables. We used machine learning models to identify the strongest predictors of drug unit reimbursements and evaluate the feasibility of forecasting future Medicaid spending with greater accuracy.
